@@ -1,2 +1,2 @@
-# soumashop
+# Soumashop
 The SoumaShop software genesis.
